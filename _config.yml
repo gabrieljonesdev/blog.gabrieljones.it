@@ -17,8 +17,8 @@ title: Gabriel Jones
 email: gabriel.jones@18f.it
 description: >- # this means to ignore newlines until "baseurl:"
   I bibliotecari sono gli architetti del sapere, dove ogni libro è una porta e ogni ricerca un viaggio.
-baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://blog.gabrieljones.it" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog.gabrieljones.it" # the subpath of your site, e.g. /blog
+url: "https://gabrieljonesdev.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: gabrieljonesdev
 github_username:  gabrieljonesdev
